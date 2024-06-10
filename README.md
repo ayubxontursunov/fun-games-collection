@@ -23,7 +23,7 @@ too high or too low. Keep guessing until you find the correct number.
 
 1. Select the Number Guessing Game from the main menu.
 2. Enter your guesses.
-3. Type exit to return to the main menu.
+3. Type `exit` to return to the main menu.
 
 ### ✂️📄🪨Rock, Paper, Scissors
 
@@ -33,7 +33,7 @@ Play the classic game against the computer. Enter your choice and see if you can
 
 1. Select Rock, Paper, Scissors from the main menu.
 2. Enter rock, paper, or scissors.
-3. Type exit to return to the main menu.
+3. Type `exit` to return to the main menu.
 
 ### 🧮 Simple Calculator
 
@@ -43,7 +43,7 @@ Perform basic arithmetic operations (addition, subtraction, multiplication, divi
 
 1. Select Simple Calculator from the main menu.
 2. Enter your arithmetic expression in the format number1 operator number2 (e.g., 3 + 4).
-3. Type exit to return to the main menu.
+3. Type `exit` to return to the main menu.
 
 ## Getting Started
 
