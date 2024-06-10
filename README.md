@@ -57,7 +57,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ```sh
 git clone https://github.com/ayubxontursunov/Fun-games-collection.git
-cd fun-games-collection
+cd Fun-games-collection
 ```
 
 2. Run the game collection:
